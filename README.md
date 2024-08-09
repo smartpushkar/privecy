@@ -8,6 +8,11 @@ We use Your Personal data to provide and improve the Service. By using the Servi
 
 ## Interpretation and Definitions
 
+## Purpose of the App
+
+Fwyni is designed to keep a log of your movements, provide you with a place to record your memories, keep evidence of an assault, and give you real evidence which can be used if you choose to report.
+
+
 ### Interpretation
 The words of which the initial letter is capitalized have meanings defined under the following conditions. The following definitions shall have the same meaning regardless of whether they appear in singular or in plural.
 
@@ -34,13 +39,8 @@ For the purposes of this Privacy Policy:
 
 - **You** means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
 
-## Collecting and Using Your Personal Data
 
-### Types of Data Collected
 
-## Purpose of the App
-
-Fwyni is designed to keep a log of your movements, provide you with a place to record your memories, keep evidence of an assault, and give you real evidence which can be used if you choose to report.
 
 ## Information We Collect
 
