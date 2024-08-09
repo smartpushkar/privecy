@@ -1,13 +1,13 @@
-Privacy Policy for Fwyni
+##Privacy Policy for Fwyni
 Last Updated: August 09, 2024
 
 This Privacy Policy describes our policies and procedures on the collection, use, and disclosure of your information when you use the Service and tells you about your privacy rights and how the law protects you. By using the Service, you agree to the collection and use of information in accordance with this Privacy Policy.
 
-Interpretation and Definitions
+## Interpretation and Definitions
 Interpretation
 Words with initial capital letters have specific meanings as defined below. These definitions apply whether the words appear in singular or plural form.
 
-Definitions
+## Definitions
 Account: A unique account created for you to access our Service or parts of our Service.
 Affiliate: An entity that controls, is controlled by, or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest, or other securities entitled to vote for election of directors or other managing authority.
 Application: Refers to Fwyni, the software program provided by the Company.
@@ -21,7 +21,7 @@ You: The individual accessing or using the Service, or the company or other lega
 Purpose of the App
 Fwyni is designed to keep a log of your movements, provide you with a place to record your memories, keep evidence of an assault, and give you real evidence which can be used if you choose to report.
 
-Collecting and Using Your Personal Data
+## Collecting and Using Your Personal Data
 Types of Data Collected
 1. Personal Information:
    Location Data: We collect your location data to log your movements, helping you track your whereabouts and providing verifiable evidence if needed.
@@ -45,37 +45,37 @@ Types of Data Collected
    Usage Data
    We collect usage data automatically when using the Service, which may include your device's IP address, browser type, pages visited, and other diagnostic data.
 
-Information Collected While Using the Application
+## Information Collected While Using the Application
 We may collect, with your prior permission, information regarding your location to provide features of our Service and to improve and customize our Service. This information may be stored on your device or uploaded to our servers.
 
-Retention of Your Personal Data
+## Retention of Your Personal Data
 The Company will retain your Personal Data only for as long as necessary for the purposes outlined in this Privacy Policy. We may retain and use your data to comply with legal obligations, resolve disputes, and enforce agreements. Usage Data is typically retained for a shorter period unless used for security or functionality improvements.
 
-Transfer of Your Personal Data
+## Transfer of Your Personal Data
 Your information, including Personal Data, may be transferred to and maintained on computers located outside your jurisdiction where data protection laws may differ. By using the Service, you consent to this transfer.
 
-Delete Your Personal Data
+## Delete Your Personal Data
 You have the right to delete or request assistance in deleting your Personal Data. You can manage your data within the Service's settings or contact us for assistance. However, certain information may be retained when required by law.
 
-Disclosure of Your Personal Data
+## Disclosure of Your Personal Data
 Business Transactions
 In the event of a merger, acquisition, or asset sale, your Personal Data may be transferred. We will notify you before your data is transferred and subject to a different Privacy Policy.
 
-Law Enforcement
+## Law Enforcement
 The Company may disclose your Personal Data if required by law or in response to valid requests by public authorities.
 
-Other Legal Requirements
+## Other Legal Requirements
 We may disclose your Personal Data in good faith when necessary to comply with legal obligations, protect the rights or property of the Company, prevent or investigate wrongdoing, protect the safety of users or the public, or protect against legal liability.
 
-Security of Your Personal Data
+## Security of Your Personal Data
 The security of your Personal Data is important to us, but remember that no method of transmission over the Internet is completely secure.
 
-User Control
+## User Control
 You have full control over the data you choose to record in Fwyni. You can manage your data, including deleting logs, messages, calls, photographs, or notes, through the app’s settings.
 
-Analytics and Third-Party Services
+## Analytics and Third-Party Services
 We may use analytics services and third-party tools to collect and analyze non-personal information. These services may have their own privacy policies, and we encourage you to review them.
 
-Contact Us
+## Contact Us
 If you have any questions or concerns about this Privacy Policy, please contact us at hello@fwyni.com.
 
