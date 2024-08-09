@@ -40,11 +40,29 @@ For the purposes of this Privacy Policy:
 
 ### Types of Data Collected
 
-#### Personal Data
-While using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:
+## Purpose of the App
 
-- First name and last name
-- Usage Data
+Fwyni is designed to keep a log of your movements, provide you with a place to record your memories, keep evidence of an assault, and give you real evidence which can be used if you choose to report.
+
+## Information We Collect
+
+### 1. Personal Information:
+- **Location Data:** We collect your location data to log your movements, helping you track your whereabouts and providing verifiable evidence if needed.
+- **Text Messages (SMS):** We collect incoming and outgoing text messages to document communication that may be relevant as evidence.
+- **Call Logs:** We collect information about your incoming and outgoing calls to maintain a record of communication that could serve as evidence.
+- **Photographs:** We collect and store photographs that you upload to document memories or as evidence.
+- **Notes:** We collect and store notes you record within the app to help you remember important details or events.
+
+### 2. Non-Personal Information:
+- **Device Information:** We collect information about your device, such as its model and operating system, to ensure the app functions properly.
+- **App Usage Information:** We collect data on how you use the app to improve its functionality and your experience.
+
+## How We Use Your Information
+
+- **Log Your Movements:** Your location data is used to create a detailed log of your movements, which you can refer to later.
+- **Record and Store Evidence:** Your SMS, call logs, photographs, and notes are stored securely on your device, allowing you to gather evidence if needed.
+- **Enhance App Functionality:** Non-personal information is used to improve the app's performance and user experience.
+
 
 #### Usage Data
 Usage Data is collected automatically when using the Service.
