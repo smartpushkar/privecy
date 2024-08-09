@@ -160,3 +160,15 @@ The Company may disclose Your Personal Data in the good faith belief that such a
 ## Security of Your Personal Data
 
 The security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet
+
+## User Control
+
+You have full control over the data you choose to record in Fwyni. You can manage your data through the app’s settings, including deleting any logs, messages, calls, photographs, or notes that you have recorded.
+
+## Analytics and Third-Party Services
+
+We may use analytics services and third-party tools to collect and analyze non-personal information. These services may have their own privacy policies, and we encourage you to review them.
+
+## Contact Us
+
+If you have any questions or concerns about this Privacy Policy, please contact us at hello@fwyni.com.
