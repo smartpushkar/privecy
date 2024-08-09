@@ -22,8 +22,6 @@ For the purposes of this Privacy Policy:
 
 - **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Fwyni.
 
-- **Country** refers to Madhya Pradesh, India.
-
 - **Device** means any device that can access the Service such as a computer, a cellphone, or a digital tablet.
 
 - **Personal Data** is any information that relates to an identified or identifiable individual.
